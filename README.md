@@ -35,7 +35,9 @@ cool-card-css/
 ├── index.html
 └── style.css
 ```
+## 🎬 Preview
 
+![Cool Card Preview](preview.gif)
 
 ## 💻 Usage
 
